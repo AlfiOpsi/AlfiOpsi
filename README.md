@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alip you can call me Alip
+- 👋 Hi, I’m @Alif you can call me Alip
 - 👀 I’m interested in Developer
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
