@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- My Discord : Alip#9040
+- My Discord : Alip#9007
+- 
 
